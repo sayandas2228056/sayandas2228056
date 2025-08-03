@@ -25,7 +25,7 @@ Currently a **Final Year Student** and an **Intern at Zenitech Solutions**, I sp
 ---
 
 ## 🎯 Current Focus
-- 🔭 Working on [Job Portal](https://github.com/sayandas2228056/JobPortal)
+- 🔭 Working on [Zenitech-Ticket](https://github.com/sayandas2228056/Zenitech-Ticket)
 - 🌱 Learning & building with **React, Node.js, Express, MongoDB, React Native**
 - 📫 Reach me at **sayandas010124@gmail.com**
 
@@ -104,3 +104,4 @@ Currently a **Final Year Student** and an **Intern at Zenitech Solutions**, I sp
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
