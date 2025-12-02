@@ -1,67 +1,120 @@
-# 👨‍💻 Sayan Das  
-### 🚀 Full-Stack Developer | Final Year Student | Intern @ Zenitech Solutions | India 🇮🇳
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sayandas2228056">
-    <img src="https://komarev.com/ghpvc/?username=sayandas2228056&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://linkedin.com/in/sayan-das-b99810213">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://sayandasportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify" alt="Portfolio" />
-  </a>
-  <a href="https://www.leetcode.com/sayandas2228056">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+# 👨‍💻
 
----
+# **SAYAN DAS**
 
-## 🧑‍💼 About Me
-I'm a passionate **Full-Stack Developer** with a strong focus on building scalable and responsive web applications.  
-Currently a **Final Year Student** and an **Intern at Zenitech Solutions**, I specialize in the **MERN stack** and am actively expanding into **mobile development** using **React Native**.
+### Full-Stack Developer | Final Year Student | Intern @ Zenitech Solutions
 
----
+<br>
 
-## 🎯 Current Focus
-- 🔭 Working on [Zenitech-Ticket](https://github.com/sayandas2228056/Zenitech-Ticket)
-- 🌱 Learning & building with **React, Node.js, Express, MongoDB, React Native**
-- 📫 Reach me at **sayandas010124@gmail.com**
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  Transform your ideas into reality with cutting-edge tech    ║
+║  Building scalable applications • One commit at a time       ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sayandas2228056&label=Profile%20Views&color=FF6B35&style=for-the-badge)](https://github.com/sayandas2228056)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-das-b99810213)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://sayandasportfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sayandas2228056)
+
+</div>
 
 ---
 
-## 💼 Skills
+<div align="center">
 
-### 🌐 Frontend
+## 🎯 **CURRENT MISSION**
+
+</div>
+
+```javascript
+const sayan = {
+    location: "Bhubaneswar, India 🇮🇳",
+    role: "Full-Stack Developer",
+    company: "Zenitech Solutions",
+    currentProject: "Zenitech-Ticket",
+    learning: ["React Native", "Cloud Architecture", "System Design"],
+    contact: "sayandas010124@gmail.com",
+    
+    dailyRoutine: () => {
+        while(alive) {
+            code();
+            learn();
+            innovate();
+            repeat();
+        }
+    }
+};
+```
+
+---
+
+<div align="center">
+
+## 💻 **TECH ARSENAL**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎨 **FRONTEND MASTERY**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🔧 Backend
+</td>
+<td align="center" width="50%">
+
+### ⚙️ **BACKEND POWERHOUSE**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+</td>
+</tr>
 
-### 📱 Mobile Development
+<tr>
+<td align="center" width="50%">
+
+### 📱 **MOBILE INNOVATION**
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ Tools & Platforms
+</td>
+<td align="center" width="50%">
+
+### 🧠 **PROGRAMMING LANGUAGES**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🛠️ **TOOLS & PLATFORMS**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -69,39 +122,88 @@ Currently a **Final Year Student** and an **Intern at Zenitech Solutions**, I sp
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🌐 Portfolio & 📄 Resume
-- 🔗 [Portfolio Website](https://sayandasportfolio.netlify.app/)
-- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/1emeaaclKgYB7wfCMnrq6Ce8bMd2wVfir/view)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandas2228056&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayandas2228056&theme=react" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandas2228056&layout=compact&theme=react" alt="Top Languages" />
-</p>
+## 📊 **GITHUB ANALYTICS**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayandas2228056&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandas2228056&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandas2228056&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayandas2228056&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 📬 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/sayan-das-b99810213">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/__sdx__007">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://fb.com/offcsayantubecode">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/sayandas2228056">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<div align="center">
 
+## 🚀 **FEATURED PROJECT**
+
+### [Zenitech-Ticket](https://github.com/sayandas2228056/Zenitech-Ticket)
+
+```
+A comprehensive ticket management system built with the MERN stack
+Featuring real-time updates, role-based access, and intuitive UI/UX
+```
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayandas2228056/Zenitech-Ticket)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **CONNECT & COLLABORATE**
+
+```
+"Great things are never done by one person. They're done by a team of people."
+                                                        — Steve Jobs
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-das-b99810213)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__sdx__007)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/offcsayantubecode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/sayandas2228056)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://sayandasportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayandas010124@gmail.com)
+
+<br>
+
+### 📄 **[VIEW MY RESUME](https://drive.google.com/file/d/1emeaaclKgYB7wfCMnrq6Ce8bMd2wVfir/view)**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **"Code is like humor. When you have to explain it, it's bad."** — Cory House
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;Always+Learning+New+Things)
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  💡 Open to collaborations and exciting opportunities       ║
+║  📫 Let's build something amazing together!                 ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+**Made with ❤️ and ☕ by Sayan Das**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
